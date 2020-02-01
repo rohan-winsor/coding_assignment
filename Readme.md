@@ -1,4 +1,4 @@
-### Note : All programs are seperated in there own files and the unittest case for all the programs are present in test_code.py
+#### Note : All programs are seperated in their own files and the unittest case for all the programs are present in test_code.py
 
 ## Question :
 

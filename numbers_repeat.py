@@ -22,4 +22,3 @@ def numbers_repeat(lst):
             count_num += f"{str(i)} - {str(lst.count(i))} \n"
     return count_num.rstrip('\n')
 
-# print(numbers_repeat([1, 2, 0, 0, 4, 1, 6, 2, 1, 3]))
