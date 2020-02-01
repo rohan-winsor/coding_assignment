@@ -1,3 +1,7 @@
+### Note : All programs are seperated in there own files and the unittest case for all the programs are present in test_code.py
+
+## Question :
+
 1. Write a program that prints the numbers from 1 to N. 
 But, for multiples of three,  print “Fizz” instead of the number and for the multiples of five print “Buzz”. 
 For numbers which are multiples of both three and five print “FizzBuzz”.
